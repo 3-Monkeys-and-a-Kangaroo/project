@@ -1,0 +1,28 @@
+body{
+	background-image: url("AmericanFlag.jpg");
+}
+
+.jumbotron{
+	text-align: center;
+	
+}
+
+h1{
+	color: #fff;
+}
+
+.panel-title{
+	font-weight: bold;
+}
+
+.form-control{
+	font-weight: bold;
+}
+
+#search{
+	font-weight: bold;
+}
+
+#numRecords{
+	font-weight: bold;
+}
