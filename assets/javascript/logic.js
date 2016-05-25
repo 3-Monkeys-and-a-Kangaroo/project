@@ -1,4 +1,3 @@
-// <<<<<<< HEAD
 // SETUP VARIABLES
 // =========================================
 var authKey = "9d4a8986921972b65754ea0809d47c84:12:74623931";
@@ -115,8 +114,3 @@ $('#searchBtn').on('click', function() {
 	return false;
 
 })
-// =======
-//link to firebase
-
-
-

@@ -1,9 +1,11 @@
 body{
 	background-image: url("AmericanFlag.jpg");
+	font-family: 'Abril Fatface', cursive;
 }
 
 .jumbotron{
 	text-align: center;
+	font-family: 'Abril Fatface', cursive;
 	
 }
 
